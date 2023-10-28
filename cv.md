@@ -20,3 +20,20 @@ Let me introduce myself: I am 27 years old and have recently begun studying soft
 
 I am result-oriented and opened to acquiring
 new knowledge to achieve my goal of becoming a **_Frontend Developer_**.
+
+## Education:
+
+- Code Basics
+  - HTML
+  - CSS
+  - JavaScript
+- RS-School
+  - JavaScript/Front-end Stage 1 (in progress)
+
+## Skills:
+
+- HTML
+- CSS
+- JavaScript
+- Git, GitHub
+- VS Code
