@@ -60,3 +60,8 @@ function areYouPlayingBanjo(name) {
   }
 }
 ```
+
+## Languages:
+
+- Russian native
+- English B1
