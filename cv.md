@@ -37,3 +37,26 @@ new knowledge to achieve my goal of becoming a **_Frontend Developer_**.
 - JavaScript
 - Git, GitHub
 - VS Code
+
+## Code examples:
+
+1. Description: Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+
+```
+function descendingOrder(n){
+  return parseInt(String(n).split('').sort().reverse().join(''));
+}
+```
+
+2. Description: Create a function which answers the question "Are you playing banjo?".
+   If your name starts with the letter "R" or lower case "r", you are playing banjo! The function takes a name as its only argument, and returns one of the following strings:
+
+```
+function areYouPlayingBanjo(name) {
+  if (name.toLowerCase().startsWith('r')){
+    return name + " plays banjo" ;
+  } else {
+    return name + " does not play banjo"
+  }
+}
+```
