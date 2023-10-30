@@ -4,9 +4,11 @@
 
 Hello everyone! I'm Olya. And this is my CV
 
+---
+
 ## Contacts:
 
-1. Location: Kazakhstan
+1. Location: Almaty, Kazakhstan
 2. Email adress: olyashlykova7@gmail.com
 3. Discord: olya_belova
 4. [Telegram](https://t.me/olya_belova)
@@ -21,6 +23,8 @@ Let me introduce myself: I am 27 years old and have recently begun studying soft
 I am result-oriented and opened to acquiring
 new knowledge to achieve my goal of becoming a **_Frontend Developer_**.
 
+---
+
 ## Education:
 
 - Code Basics
@@ -28,7 +32,10 @@ new knowledge to achieve my goal of becoming a **_Frontend Developer_**.
   - CSS
   - JavaScript
 - RS-School
+
   - JavaScript/Front-end Stage 1 (in progress)
+
+---
 
 ## Skills:
 
@@ -37,6 +44,8 @@ new knowledge to achieve my goal of becoming a **_Frontend Developer_**.
 - JavaScript
 - Git, GitHub
 - VS Code
+
+---
 
 ## Code examples:
 
@@ -61,7 +70,9 @@ function areYouPlayingBanjo(name) {
 }
 ```
 
+---
+
 ## Languages:
 
 - Russian native
-- English B1
+- English A2-B1
