@@ -49,7 +49,7 @@ new knowledge to achieve my goal of becoming a **_Frontend Developer_**.
 
 ## Projects:
 
-[CV#1. Markdown & Git](https://github.com/olya42/rsschool-cv/cv)
+[CV#1. Markdown & Git](https://github.com/olya42/rsschool-cv)
 
 ---
 
