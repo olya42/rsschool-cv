@@ -10,7 +10,7 @@ Hello everyone! I'm Olya. And this is my CV
 
 1. Location: Almaty, Kazakhstan
 2. Email adress: olyashlykova7@gmail.com
-3. Discord: olya_belova
+3. Discord: olya42
 4. [Telegram](https://t.me/olya_belova)
 5. [WhatsApp](https://wa.me/77064166070)
 
