@@ -4,13 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CV project</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./style.css">
   <link rel="icon" href="assets/CV.ico">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
 </head>
-<body>
+<body >
   <header class="header">
     <nav class="nav">
       <ul class="list">
@@ -38,6 +38,112 @@
       </ul>
     </nav>
   </header>
+  <main>
+    <div class="title">
+      <h1>Olga Belova</h1>
+    </div>
+    <div class="container">
+
+      <div class="left-column">
+        <img src="assets/img/my-photo.jpg" alt="my-photo" width="320">
+        <section class="info">
+          <h2>Contacts</h2>
+          <ul>
+            <li class="contact-item">
+              <img src="./assets/img/place.png" alt="place logo">
+              <span>Location: Kazakhstan, Almaty</span>
+            </li>
+            <li>
+              <img src="" alt="">
+              <span>Email adress: olyashlykova7@gmail.com</span>
+            </li>
+            <li>
+              <img src="" alt="">
+              <span>Discord</span>
+            </li>
+            <li>
+              <img src="" alt="">
+              <span>Telegram</span>
+            </li>
+          </ul>
+        </section>
+
+        <section class="info">
+          <h2>Skills</h2>
+          <ul>
+            <li>HTML5, CSS3</li>
+            <li>JavaScript Basics</li>
+            <li>Git, GitHub</li>
+            <li>VS Code</li>
+          </ul>
+        </section>
+  
+        <section class="info">
+          <h2>Languages</h2>
+          <ul>
+            <li>Russian - native</li>
+            <li>English - B1</li>
+          </ul>
+  
+        </section>
+      </div>
+      <div class="right-column">
+        <section class="about-me">
+          <h2>About me</h2>
+          <p>Let me introduce myself: I am 27 years old and have recently begun studying software development, 
+            which I find incredibly interesting.
+            I am results-oriented and open to acquiring new knowledge
+             to become a Frontend Developer</p>
+        </section>
+
+          <section class="info">
+            <h2>Education</h2>
+            <p>Kazakh National Medical University</p>
+            <p>General Medicine School</p>
+            <p>Years: 2014-2021</p>
+            <p>Specialization: General practitioner</p>
+          </section>
+          <section class="info" id="code">
+            <h2>Code example</h2>
+            <p>Description: Create a function which answers the question "Are you playing banjo?".
+              If your name starts with the letter "R" or lower case "r", you are playing banjo! The function takes a name as its only argument, and returns one of the following strings:</p>
+            <pre>
+                <code> 
+                  function areYouPlayingBanjo(name) {
+                    let firstLetter = name[0];
+                    if (firstLetter.toLowerCase() === 'r') {
+                      return name + " plays banjo";
+                    } else {
+                      return name + " does not play banjo";
+                    }
+                  }
+                </code>
+            </pre>
+        </section>
+      </div>
+    </div>
+  </main>
+
+
+  <footer class="footer">
+    <div>
+        <ul class="list">
+            <li>
+                <a href="https://github.com/olya42">
+                    <img src="./assets/img/github-logo.svg" alt="GitHub logo" width="40">
+                </a>
+            </li>
+            <li>
+                <span>2024</span>
+            </li>
+            <li>
+                <a href="https://rs.school/courses/javascript-preschool-ru">
+                    <img src="./assets/img/rs_school_js.svg" alt="RS-School logo" width="80">
+                </a>
+            </li>
+        </ul>
+    </div>
+</footer>
 
 </body>
 </html>
